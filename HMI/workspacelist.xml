@@ -2,8 +2,13 @@
   <DSWORKSPACE>
     <D_Workspace diffgr:id="D_Workspace1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
       <iID>1</iID>
-      <szName>HMI</szName>
-      <dtCreateDate>2025-06-27T14:02:51.9043007+07:00</dtCreateDate>
+      <szName>havy</szName>
+      <dtCreateDate>2025-06-16T17:21:02.6743348+07:00</dtCreateDate>
+    </D_Workspace>
+    <D_Workspace diffgr:id="D_Workspace2" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+      <iID>2</iID>
+      <szName>PLC_Mitsu</szName>
+      <dtCreateDate>2025-06-20T10:49:17.4150135+07:00</dtCreateDate>
     </D_Workspace>
     <D_DBVersion diffgr:id="D_DBVersion2" msdata:rowOrder="0" diffgr:hasChanges="inserted">
       <iSupportVersion>1</iSupportVersion>
